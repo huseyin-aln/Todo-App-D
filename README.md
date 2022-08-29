@@ -6,18 +6,7 @@
 <h1 align="center">ToDo App</h1>
 
 
-<div align="center">
-  <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-     | 
-    <a href="https://{your-url-to-the-solution}">
-      Project
-    </a>
- 
-  </h3>
-</div>
+
 
 <!-- TABLE OF CONTENTS -->
 
@@ -67,7 +56,7 @@ $ git clone https://github.com/huseyin-aln/Todo-App-D
 ```
 
 ## Acknowledgements
-- Information for your projects
+- ToDo App was created with CRUD operations using django structure. The templates created were visualized using bootstrap and style.css.
 
 ## Contact
 
