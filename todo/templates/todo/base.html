@@ -26,20 +26,20 @@
             width="45"
             height="45"
           />
-          Clarusway Todo App</a
+          h-aln Todo App</a
         >
       </div>
     </nav>
 
-    {% if messages %}
-     {% for message in messages %} 
-      {% if message.tags == "warning" %}
-        <div id="warning" class="message">{{ message }}</div>
-      {% else %}
-      <div id="success" class="message">{{ message }}</div>
+    {% if messages %} 
+      {% for message in messages %} 
+        {% if message.tags == "warning" %}
+          <div id="warning" class="message">{{ message }}</div>
+        {% else %}
+        <div id="success" class="message">{{ message }}</div>
         {% endif %} 
       {% endfor %} 
-    {% endif %}
+    {% endif %} 
     
     {% block content %} 
     
