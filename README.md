@@ -1,7 +1,5 @@
 # Todo-App-D
 
-![Todo-App-D](https://user-images.githubusercontent.com/101873227/187294478-3d797769-84f8-4566-a117-abc386328a1e.gif)
-
 
 <!-- Please update value in the {}  -->
 
@@ -36,7 +34,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![Todo-App-D](https://user-images.githubusercontent.com/101873227/187294478-3d797769-84f8-4566-a117-abc386328a1e.gif)
 
 ### Built With
 
