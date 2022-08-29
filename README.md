@@ -54,7 +54,7 @@ $ git clone https://github.com/huseyin-aln/Todo-App-D
 ## Contact
 
 
-- GitHub [@huseyin-aln](https://{github.com/husein-aln})
+- GitHub [[https://{github.com/huseyin-aln}](https://github.com/huseyin-aln))
 
 - Linkedin [https://www.linkedin.com/in/h%C3%BCseyin-arslan444/)
 
